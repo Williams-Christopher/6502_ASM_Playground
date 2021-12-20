@@ -1,0 +1,5 @@
+{
+    "executable": "/Users/cw/Projects/6502/cc65/bin/cl65",
+    "params": "--verbose -o file.prg -t c64 -C c64-asm.cfg"
+  }
+  
