@@ -1,5 +1,5 @@
 ;*=$033C
-.org $033c
+;.org $033cbin
 
 ; Branch on even numbers
 ;
